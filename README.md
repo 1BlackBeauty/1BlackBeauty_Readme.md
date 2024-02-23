@@ -1,5 +1,7 @@
-# 1BlackBeauty_Readme.md
+# *1BlackBeauty_Readme.md*
 
-## Just A Little Bit About Me
+# *Just A Little Bit About Me*
 
-***Hey everyone welcome to my first-ever **readme.md** repository. I am just starting to learn about coding and the reason why is because I was doing some work training AI chatbots, and well the rest is history. Ultimately I found GitHub and figured this could be a very valuable tool in expanding my knowledge about everything and anything that has to deal with coding (front & backend). I am from Columbus, OH, attend college online for Criminal Justice, and enjoy reading, and writing short stories/poetry but have never published anything (one day), and trying to learn something new each and every day. If you have any questions feel free to ask and I just might have an answer to your question!***
+*My name is **Danyel**, but you can call me **Danny**, and welcome to my **readme.md** repository. I am a novice when it comes to coding, and I have decided that does not sit well with me because I am the tech-savvy one in the family. So far, I have managed to adapt just as the many emerging technologies, navigating them with ease. **Everything except for coding**. Ultimately, I found GitHub and decided to use this platform as an extremely very valuable tool for expanding my knowledge about everything pertaining to coding (front & backend). I reside in **Columbus, OH (GO BUCKS)** and am freelancing at the moment (in between gigs at the moment), but seeking the next big thing like everyone else.* 
+
+**Being a simple gal from the Midwest, I enjoy the simple things in life. Curling up with a good book or watching movies, writing short stories/poetry (never quite had the nerve to publish anything yet), and spending time with those who spend time with me. I have made it a goal to try and learn at least one new thing a day because why not?*
